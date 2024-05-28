@@ -21,7 +21,7 @@ def main():
     pd.set_option('display.notebook_repr_html', False)
 
     st.set_page_config(
-        page_title = "Nautique Production Dashboard",
+        page_title = "Production Dashboard",
         page_icon = "🛥️",
         layout = "wide"
     )
